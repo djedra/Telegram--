@@ -1,0 +1,10 @@
+{
+    "bot_token": "",
+    "database" : {
+        "drivername" : "postgresql",
+        "database" : "",
+        "password" : "",
+        "username" : ""
+    },
+    "yandex_token" : ""
+}
